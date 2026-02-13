@@ -1,6 +1,5 @@
 
-# CODSOFT Python Internship Tasks
-
+# CODSOFT 
 This repository contains all the tasks completed during the CODSOFT Tech Internship.
 
 ## Tasks:
