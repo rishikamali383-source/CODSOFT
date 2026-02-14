@@ -1,13 +1,51 @@
+# CODSOFT Internship Projects
 
-# CODSOFT 
-This repository contains all the tasks completed during the CODSOFT Tech Internship.
+This repository contains all the tasks completed during the CODSOFT Tech Internship.  
+All projects are built using **Python**.
 
-## Tasks:
+## Projects
+### 1. To-Do List 📝
+A simple Python GUI program using **Tkinter** to manage tasks.  
+- Add, delete,clear and save tasks.
 
-1. To-Do List
-2. Calculator 
-3. Password Generator
-4. Rock Paper Scissors Game 
-5. Contact Book 
+**Screenshot:**  
+![To-Do List Screenshot](screenshot_todo.png)
 
-All projects are built using Python.
+### 2. Calculator ➗
+A basic Python calculator with GUI for simple arithmetic operations.  
+- Addition, subtraction, multiplication, and division.
+- Easy-to-use interface with Tkinter.
+
+**Screenshot:**  
+![Calculator Screenshot](screenshot_calculator.png)
+
+### 3. Password Generator 🔐
+Generate strong and secure passwords with just a few clicks!  
+- Custom password length.
+- Mix of letters, numbers, and symbols.
+- Copy password to clipboard easily.
+
+**Screenshot:**  
+![Password Generator Screenshot](screenshot_password.png)
+
+### 4. Rock Paper Scissors Game ✂️
+Classic game implemented in Python.  
+- Play against the computer.
+- Random computer moves.
+- Simple text-based interface.
+
+**Screenshot:**  
+![Rock Paper Scissors Screenshot](screenshot_rps.png)
+
+### 5. Contact Book 📇
+A small program to store and manage contacts.  
+- Add, update, and view contacts.
+- Store names, phone numbers, and emails.
+
+**Screenshot:**  
+![Contact Book Screenshot](screenshot_contacts.png)
+
+
+
+## Author
+**Rishika Mali**  
