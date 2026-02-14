@@ -26,7 +26,7 @@ Generate strong and secure passwords with just a few clicks!
 - Copy password to clipboard easily.
 
 **Screenshot:**  
-![Password Generator Screenshot](screenshot_password.png)
+![Password Generator Screenshot](password_generator.png)
 
 ### 4. Rock Paper Scissors Game ✂️
 Classic game implemented in Python.  
