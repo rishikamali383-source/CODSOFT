@@ -11,7 +11,3 @@ This repository contains all the tasks completed during the CODSOFT Tech Interns
 5. Contact Book 
 
 All projects are built using Python.
-1
-2
-3
-4
