@@ -9,7 +9,7 @@ A simple Python GUI program using **Tkinter** to manage tasks.
 - Add, delete,clear and save tasks.
 
 **Screenshot:**  
-![To-Do List Screenshot](screenshot_todo.png)
+![To-Do List Screenshot](todo.png)
 
 ### 2. Calculator ➗
 A basic Python calculator with GUI for simple arithmetic operations.  
