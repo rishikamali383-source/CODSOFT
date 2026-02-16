@@ -35,7 +35,7 @@ Classic game implemented in Python.
 - Simple text-based interface.
 
 **Screenshot:**  
-![Rock Paper Scissors Screenshot](screenshot_rps.png)
+![Rock Paper Scissors Screenshot](rock_paper_scissors.png)
 
 ### 5. Contact Book 📇
 A small program to store and manage contacts.  
