@@ -29,10 +29,11 @@ Generate strong and secure passwords with just a few clicks!
 ![Password Generator Screenshot](password_generator.png)
 
 ### 4. Rock Paper Scissors Game ✂️
-Classic game implemented in Python.  
-- Play against the computer.
-- Random computer moves.
-- Simple text-based interface.
+Classic game implemented in Python using Tkinter (GUI-based).
+- Play against the computer
+- Random computer moves
+- Score tracking system (First to 5 wins)
+- Game Over message and Reset option
 
 **Screenshot:**  
 ![Rock Paper Scissors Screenshot](rock_paper_scissors.png)
