@@ -45,7 +45,7 @@ A GUI-based application built using Python and Tkinter to store and manage conta
 - Permanent file storage with auto-load feature
 
 **Screenshot:**  
-![Contact Book Screenshot](screenshot_contacts.png)
+![Contact Book Screenshot](contact_book.png)
 
 
 
