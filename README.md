@@ -39,9 +39,10 @@ Classic game implemented in Python using Tkinter (GUI-based).
 ![Rock Paper Scissors Screenshot](rock_paper_scissors.png)
 
 ### 5. Contact Book 📇
-A small program to store and manage contacts.  
-- Add, update, and view contacts.
-- Store names, phone numbers, and emails.
+A GUI-based application built using Python and Tkinter to store and manage contacts.
+- Add, search, and delete contacts
+- Store name, phone, email, and address
+- Permanent file storage with auto-load feature
 
 **Screenshot:**  
 ![Contact Book Screenshot](screenshot_contacts.png)
