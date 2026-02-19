@@ -17,7 +17,7 @@ A basic Python calculator with GUI for simple arithmetic operations.
 - Easy-to-use interface with Tkinter.
 
 **Screenshot:**  
-![Calculator Screenshot](calcultor.png)
+![Calculator Screenshot](calculator.png)
 
 ### 3. Password Generator 🔐
 Generate strong and secure passwords with just a few clicks!  
