@@ -21,13 +21,13 @@ def copy_password():
 root = tk.Tk()
 root.title("Password Generator")
 root.geometry("350x350")
-root.config(bg="#2c3e50")
+root.config(bg="#5d7c9b")
 
 tk.Label(root, text="Password Generator 🔐",
-         font=("Arial", 20, "bold"),  bg="#2c3e50", fg="white").pack(pady=10)
+         font=("Arial", 20, "bold"),  bg="#5d7c9b", fg="white").pack(pady=10)
 
 tk.Label(root, text="Enter Password Length:",
-          font=("Arial", 12, ),height=2,bg="#2c3e50", fg="white").pack()
+          font=("Arial", 12, ),height=2,bg="#5d7c9b", fg="white").pack()
 
 length_entry = tk.Entry(root)
 length_entry.insert(0, "8")
