@@ -6,7 +6,7 @@ All projects are built using **Python**.
 ## Projects
 ### 1. To-Do List 📝
 A simple Python GUI program using **Tkinter** to manage tasks.  
-- Add, delete,clear and save tasks.
+- Add, delete,update,track and save tasks.
 
 **Screenshot:**  
 ![To-Do List Screenshot](todo.png)
@@ -29,18 +29,18 @@ Generate strong and secure passwords with just a few clicks!
 ![Password Generator Screenshot](password_generator.png)
 
 ### 4. Rock Paper Scissors Game ✂️
-Classic game implemented in Python using Tkinter (GUI-based).
-- Play against the computer
-- Random computer moves
-- Score tracking system (First to 5 wins)
-- Game Over message and Reset option
+A Python Tkinter based game where the user plays Rock, Paper, Scissors against the computer.
+Features:
+- Score tracking
+- Reset option
+- Interactive GUI
 
 **Screenshot:**  
 ![Rock Paper Scissors Screenshot](rock_paper_scissors.png)
 
 ### 5. Contact Book 📇
 A GUI-based application built using Python and Tkinter to store and manage contacts.
-- Add, search, and delete contacts
+- Add, search,update and delete contacts
 - Store name, phone, email, and address
 - Permanent file storage with auto-load feature
 
