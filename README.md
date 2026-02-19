@@ -9,7 +9,7 @@ A simple Python GUI program using **Tkinter** to manage tasks.
 - Add, delete,clear and save tasks.
 
 **Screenshot:**  
-![To-Do List Screenshot](screenshot.png)
+![To-Do List Screenshot]todo.png)
 
 ### 2. Calculator ➗
 A basic Python calculator with GUI for simple arithmetic operations.  
@@ -17,7 +17,7 @@ A basic Python calculator with GUI for simple arithmetic operations.
 - Easy-to-use interface with Tkinter.
 
 **Screenshot:**  
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](calcultor.png)
 
 ### 3. Password Generator 🔐
 Generate strong and secure passwords with just a few clicks!  
@@ -26,7 +26,7 @@ Generate strong and secure passwords with just a few clicks!
 - Copy password to clipboard easily.
 
 **Screenshot:**  
-![Password Generator Screenshot](screenshot.png)
+![Password Generator Screenshot](password_generator.png)
 
 ### 4. Rock Paper Scissors Game ✂️
 Classic game implemented in Python using Tkinter (GUI-based).
@@ -36,7 +36,7 @@ Classic game implemented in Python using Tkinter (GUI-based).
 - Game Over message and Reset option
 
 **Screenshot:**  
-![Rock Paper Scissors Screenshot](screenshot.png)
+![Rock Paper Scissors Screenshot](rock-paper_scissors.png)
 
 ### 5. Contact Book 📇
 A GUI-based application built using Python and Tkinter to store and manage contacts.
@@ -45,7 +45,7 @@ A GUI-based application built using Python and Tkinter to store and manage conta
 - Permanent file storage with auto-load feature
 
 **Screenshot:**  
-![Contact Book Screenshot](screenshot.png)
+![Contact Book Screenshot](contact_book.png)
 
 
 
