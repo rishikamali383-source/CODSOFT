@@ -9,7 +9,7 @@ A simple Python GUI program using **Tkinter** to manage tasks.
 - Add, delete,clear and save tasks.
 
 **Screenshot:**  
-![To-Do List Screenshot]todo.png)
+![To-Do List Screenshot](todo.png)
 
 ### 2. Calculator ➗
 A basic Python calculator with GUI for simple arithmetic operations.  
@@ -36,7 +36,7 @@ Classic game implemented in Python using Tkinter (GUI-based).
 - Game Over message and Reset option
 
 **Screenshot:**  
-![Rock Paper Scissors Screenshot](rock-paper_scissors.png)
+![Rock Paper Scissors Screenshot](rock_paper_scissors.png)
 
 ### 5. Contact Book 📇
 A GUI-based application built using Python and Tkinter to store and manage contacts.
